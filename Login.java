@@ -68,7 +68,7 @@ public class Login {
 
 
 
-log4j.rootLogger= ALL,  debug, info, error, stdout
+/*log4j.rootLogger= ALL,  debug, info, error, stdout
 
 log4j.threshold = ALL
 
@@ -107,4 +107,4 @@ log4j.appender.error.DatePattern = '.'yyy-MM-dd
 log4j.appender.error.layout = org.apache.log4j.PatternLayout
 log4j.appender.error.layout.ConversionPattern = %d{yyyy-MM-dd HH:mm:ss} %c{1} [%p] %m%n
 
-
+*/
